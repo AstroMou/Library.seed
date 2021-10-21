@@ -10,3 +10,9 @@ C:\Users\PROGRAMACION\Desktop\LibratySeed\ModeloSeed\bin\Debug\ModeloSeed.pdb
 C:\Users\PROGRAMACION\Desktop\LibratySeed\ModeloSeed\obj\Debug\ModeloSeed.csprojResolveAssemblyReference.cache
 C:\Users\PROGRAMACION\Desktop\LibratySeed\ModeloSeed\obj\Debug\ModeloSeed.dll
 C:\Users\PROGRAMACION\Desktop\LibratySeed\ModeloSeed\obj\Debug\ModeloSeed.pdb
+C:\Users\PROGRAMACION\Desktop\libreriaActualizada\ModeloSeed\bin\Debug\ModeloSeed.dll.config
+C:\Users\PROGRAMACION\Desktop\libreriaActualizada\ModeloSeed\bin\Debug\ModeloSeed.dll
+C:\Users\PROGRAMACION\Desktop\libreriaActualizada\ModeloSeed\bin\Debug\ModeloSeed.pdb
+C:\Users\PROGRAMACION\Desktop\libreriaActualizada\ModeloSeed\obj\Debug\ModeloSeed.csprojResolveAssemblyReference.cache
+C:\Users\PROGRAMACION\Desktop\libreriaActualizada\ModeloSeed\obj\Debug\ModeloSeed.dll
+C:\Users\PROGRAMACION\Desktop\libreriaActualizada\ModeloSeed\obj\Debug\ModeloSeed.pdb
